@@ -269,8 +269,18 @@ section {
     color: #3a6cf4;
 }
 
+/*#Det:hover::after {
+    content: "watch vedios of my projects";
+}
+
+#Det::after {
+    content: "watch vedios";
+}
+*/
+
 .more-details:hover {
     color: #601cfc;
+    font-size: 17px;
 }
 
 .contact .icon {
